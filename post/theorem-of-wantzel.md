@@ -22,6 +22,8 @@ In 1796, Gauss succeeded in solving the problem of constructing the regular 17-g
 
 **Keywords:** Keywords: Regular polygon, compass and straightedge, Fermat prime, constructability, Wantzel
 
+---
+
 <!-- footer -->
 
 <div align="center">
@@ -36,7 +38,7 @@ In 1796, Gauss succeeded in solving the problem of constructing the regular 17-g
 
 <!-- css -->
 
-<link rel="stylesheet" href=".custom.css">
+<link rel="stylesheet" href="./custom.css">
 
 <!-- mathjax -->
 <script type="text/javascript" id="MathJax-script" async

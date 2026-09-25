@@ -13,7 +13,7 @@ In 1796, Gauss succeeded in solving the problem of constructing the regular 17-g
 
 **Submission history**
 
-From: Johannes Mainik [view news](./post/custom.css)  
+From: Johannes Mainik [view news](./post/news.md)  
 
 ---
 
@@ -31,7 +31,7 @@ From: Johannes Mainik [view news](./post/custom.css)
 
 <!-- css -->
 
-<link rel="stylesheet" href="./assets1.0/custom.css">
+<link rel="stylesheet" href="./post/custom.css">
 
 <!-- mathjax -->
 <script type="text/javascript" id="MathJax-script" async

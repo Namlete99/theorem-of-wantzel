@@ -3,6 +3,8 @@
 
 Chưa có gì cả
 
+---
+
 <!-- footer -->
 
 <div align="center">
@@ -14,3 +16,7 @@ Chưa có gì cả
 <div align="center">
   <b>Designed and edited by Namlete</b>
 </div>
+
+<!-- css -->
+
+<link rel="stylesheet" href="./custom.css">
